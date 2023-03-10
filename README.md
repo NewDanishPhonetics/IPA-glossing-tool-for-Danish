@@ -1,5 +1,5 @@
 # IPA-glossing-tool-for-Danish
-Add IPA to Danish words in any text editor
+Transform "Eksempel" to "/ɛk.ˈsɛm̰p.l/ Eksempel"
 
 # Description
 
